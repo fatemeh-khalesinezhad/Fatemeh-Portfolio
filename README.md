@@ -3,7 +3,7 @@
 *A personal interactive portfolio website with a space theme, immersive animations,  
 hidden Easter eggs, and a growing collection of professional showcases.*
 
-![Portfolio](Nazanin%27s%20Portfolio/images/MAIN.png)
+![Portfolio](images/MAIN.png)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
