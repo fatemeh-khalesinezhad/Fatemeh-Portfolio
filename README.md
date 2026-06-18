@@ -87,3 +87,50 @@ Three secret surprises hidden across the site:
 > The contact form will be disabled until you move to a PHP‑enabled host.
 
 ## 📁 Project Structure (current)
+
+nazanins-portfolio/
+├── index.html          (main portfolio page)
+├── portal/
+│   ├── portal.html
+│   ├── style.css
+│   └── JS main.js
+├── audio/
+│   └── background.mp3
+├── images/
+│   └── (1.jpg – 6.jpg)
+├── video/
+│   └── space.mp4
+├── easter egg/
+│   ├── 3D dice/
+│   ├── Quantum Neural Network/
+│   ├── Reptile/
+│   └── Spider/
+├── car_game.html
+├── moon.html
+├── Programming-Languages.html
+├── contact.php         (to be added)
+└── README.md
+
+
+## 🐞 Known Issues & Notes
+- The page is currently a single huge HTML file – a refactor is in progress.
+- Some old `_sdk` script tags cause 404 errors; they will be removed in the next update.
+- The custom cursor may hide default browser cursors; we plan to make it optional.
+- The gallery navigation buttons are hidden (commented out) – scroll by dragging.
+- The “Related Sites” and “Survey” sections will be repurposed as **Certificates** and **Contact**.
+
+## 👩‍💻 About the Developer
+
+**Nazanin** – *Web Developer & Space Enthusiast*
+
+> “I believe code can be both powerful and beautiful – a canvas where logic meets imagination.”
+
+This portfolio is a living project, evolving with every new skill learned.  
+It reflects a passion for interactive design and a commitment to becoming  
+a top‑notch computer engineer.
+
+[🌐 Live Portfolio](https://nazanin.github.io)
+[💼 LinkedIn](#) | [📧 Email](mailto:fatemeh.khalesinezhad@gmail.com)
+
+
+© 2025 Nazanin's Cosmos Portfolio – Built with curiosity, stardust, and a lot of late‑night coding.
