@@ -1,0 +1,25 @@
+# Large files
+
+*.mov
+*.avi
+*.mkv
+
+*.mp4
+Describtion Video/
+uploads/
+
+# Uploads / user files
+uploads/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# Logs
+*.log
